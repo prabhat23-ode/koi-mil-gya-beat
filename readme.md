@@ -1,1 +1,1 @@
-it is afun project i made using piano notes and coding.
+it is a project just for that I made using piano notes and coding.
